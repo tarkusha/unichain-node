@@ -16,7 +16,7 @@
       "gasLimit": 30000000
     }
   },
-  "block_time": 1,
+  "block_time": 2,
   "max_sequencer_drift": 600,
   "seq_window_size": 3600,
   "channel_timeout": 300,
